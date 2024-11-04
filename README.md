@@ -1,4 +1,4 @@
-# User Rgistration
+# User Registration
 
 Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) completa utilizando Node.js, MySQL e React. A aplicação é dividida em backend, frontend e banco de dados.
 
