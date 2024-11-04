@@ -1,6 +1,6 @@
-# CRUD Application
+# User Rgistration
 
-Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) completa utilizando Node.js, MySQL e React. A aplicação é dividida em backend, frontend e banco de dados, e está configurada para ser executada em contêineres Docker.
+Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) completa utilizando Node.js, MySQL e React. A aplicação é dividida em backend, frontend e banco de dados.
 
 ## Visão Geral do Projeto
 
@@ -14,12 +14,6 @@ Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) co
 - Express.js
 - React
 - MySQL
-- Docker
-- Docker Compose
-
-## Requisitos
-
-- Docker e Docker Compose instalados na sua máquina.
 
 ## Como Executar
 
@@ -27,10 +21,6 @@ Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) co
    ```bash
    git clone https://github.com/dbcfilho/crud.git
    cd crud
-
-2. Construa e inicie os contêineres:
-    ```bash
-    docker-compose up --build
 
 3. Acesse a aplicação:
 - Frontend: http://localhost:3001
