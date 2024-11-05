@@ -31,4 +31,3 @@ Este repositório contém uma aplicação CRUD (Create, Read, Update, Delete) co
 - backend/: Código do servidor Node.js
 - frontend/: Código do aplicativo React
 - db/: Scripts do banco de dados MySQL
-- docker-compose.yml: Arquivo de configuração do Docker Compose
