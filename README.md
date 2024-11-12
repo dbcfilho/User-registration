@@ -83,7 +83,18 @@ User-registration/
 │  
 └── db/  # Scripts para configuração do banco de dados MySQL  
 ```  
+
+## Documentação
   
+Segue link da documentação do projeto:  
+[Documentação do Projeto](https://drive.google.com/file/d/1AjVWiS1mwsriBOvCiNVzwq81WgmmvCwY/view)
+
+## Relatório
+
+Segue link do relatório do projeto:  
+[Relatório do Projeto](https://drive.google.com/file/d/1MhPOxL27IiWM52qX5mAE00vBH0U-igox/view)
+
 ## Licença  
   
 Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo LICENSE para mais detalhes.
+
