@@ -64,8 +64,8 @@ Certifique-se de ter o MySQL instalado e configurado em sua máquina. Execute os
   
 ### 5. Acessar a Aplicação  
   
-- **Frontend**: Acesse em [http://localhost:3001](http://localhost:3000)  
-- **Backend**: Acesse em [http://localhost:3000](http://localhost:8080)  
+- **Frontend**: Acesse em [http://localhost:3000](http://localhost:3000)  
+- **Backend**: Acesse em [http://localhost:8080](http://localhost:8080)  
 - **Banco de Dados MySQL**: Conecte-se em `localhost:3306` (usuário: `root`, senha: `yourpassword`)  
   
 ## Estrutura do Projeto  
@@ -86,11 +86,11 @@ User-registration/
 
 ## Documentação
   
-Segue link da documentação do projeto:  [Documentação do Projeto](https://drive.google.com/file/d/1AjVWiS1mwsriBOvCiNVzwq81WgmmvCwY/view)
+Segue link da documentação do projeto:  <a href="https://drive.google.com/file/d/1AjVWiS1mwsriBOvCiNVzwq81WgmmvCwY/view" target="_blank">Documentação do Projeto</a>
 
 ## Relatório
 
-Segue link do relatório do projeto:  [Relatório do Projeto](https://drive.google.com/file/d/1MhPOxL27IiWM52qX5mAE00vBH0U-igox/view)
+Segue link do relatório do projeto:  <a href="https://drive.google.com/file/d/1MhPOxL27IiWM52qX5mAE00vBH0U-igox/view" target="_blank">Relatório do Projeto</a>
 
 ## Licença  
   
