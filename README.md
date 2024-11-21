@@ -1,6 +1,6 @@
 # User Registration  
   
-Este repositório apresenta uma aplicação completa de registro de usuários, implementada com funcionalidades CRUD (Create, Read, Update, Delete) utilizando tecnologias modernas para o desenvolvimento de aplicações web.  
+Este repositório apresenta uma aplicação completa de registro de usuários, implementada com funcionalidades CRUD (Create, Read, Update, Delete) utilizando tecnologias modernas para o desenvolvimento de aplicações web..  
   
 ## Visão Geral do Projeto  
   
